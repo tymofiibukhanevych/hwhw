@@ -1,2 +1,12 @@
-print("#####")
-print("hello")
+print("####")
+print("#  #")
+print("#  #")
+print("####")
+
+print()
+
+print("#  #")
+print("#  #")
+print("####")
+print("#  #")
+print("#  #")
